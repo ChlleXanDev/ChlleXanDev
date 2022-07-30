@@ -34,14 +34,14 @@
    -->
 
   ## 🤝🏻  Connect with Me
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/240059262297047041)
-  [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNWjmWJHmJdtDH-DF46osig)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/932817217614118943)
+  [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](hhttps://www.youtube.com/channel/UCehQMGUaFgzKZ8RoNT-Oc0w)
   [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/yioz5owf1lq36k6pn82ie126p)
 
   ## Support
 
   if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈<br><br>
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/staciax)
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/chllexandev)
 <!-- 
   <p  align="center">
 <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg">  -->
@@ -62,10 +62,10 @@
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=yioz5owf1lq36k6pn82ie126p&redirect=false">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=yioz5owf1lq36k6pn82ie126p&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Angel Santiago Jaime Zavala's DEV Profile">
   </a><br>
-    <a href="https://github.com/staciax">
-        <img src="https://komarev.com/ghpvc/?username=staciax">
+    <a href="https://github.com/ChlleXanDev">
+        <img src="https://komarev.com/ghpvc/?username=ChlleXanDev">
     </a>
-    <a href="https://github.com/staciax?tab=followers"><img src="https://img.shields.io/github/followers/staciax?label=Followers&style=social" alt="GitHub Badge"></a>
+    <a href="https://github.com/ChlleXanDev?tab=followers"><img src="https://img.shields.io/github/followers/ChlleXanDev?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 <!--  -->
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yioz5owf1lq36k6pn82ie126p&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yioz5owf1lq36k6pn82ie126p&redirect=false) --> 
