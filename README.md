@@ -1,5 +1,5 @@
 <p float="left">
-  <img src='ig5.png' width='250' align="left">
+  <img src='pic.jpg' width='250' align="left">
   <p float="left">
 
   👋 Hi! I'm ChlleXanDev~  <br>
