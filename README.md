@@ -1,71 +1,68 @@
-<p float="left">
-  <img src='pic.jpg' width='250' align="left">
-  <p float="left">
+<p align="center">
+    <img src="https://telegra.ph/file/e86b361b05cc319c31359.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+</p>
+<h1 align="center">ChlleXanDev 🎐</h1>
+<p align="center">
+  <a href="https://github.com/ChlleXanDev"><img src="http://readme-typing-svg.herokuapp.com?color=FFFF00&center=true&vCenter=true&multiline=false&lines=🎐Hii+Im+Not+Programmer;My+Name+is+ChlleXanDev✨;Im+Just+Student👨‍🎓" alt="UwU">
+</p>
 
-  👋 Hi! I'm ChlleXanDev~  <br>
-  ❤ Nice to meet you 
+<p align="center">
+<a href="https://github.com/ChlleXanDev"><img title="Author" src="https://img.shields.io/badge/Xiao-Yan-blue.svg?style=for-the-badge&logo=github"></a>
+
+## ```Spotify Music``` 🎵
+
+<p align="center">
+  <a href="https://open.spotify.com/track/185Wm4Mx09dQG0fUktklDm?si=Btfle_keSyysCVtV-bZvFQ&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+
+------
+I'm currently learning:
+#### 💻Languages :
+<img align="right" alt="js" width="45px" src="https://i.ibb.co/PTMpZF1/1633694131337.png" />
+<img align="right" alt="html5" width="45px" src="https://i.ibb.co/Gn517kM/1633695675200.png" />
+<img align="right" alt="py" width="45px" src="https://i.ibb.co/wgNvZ1N/python.png" />
+
+
+--------
+## Connect With Me 💌
+  <a href="https://wa.me/6281289682492">
+    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/rifkyekaxyz">
+    <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:admin@chllexandev.xyz">
+    <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
   
-  🌱 I’m currently learning Python, Discord bot and other<br>
-  💬 ask me about anything, i am happy to help<br>
-  💜 Interests: music, video games, programing language<br>
-  🎵 I love to hear japanese music.<br>
-  ⚡ Fun fact: i like to play video games But I play a very noob xD
+---
 
-  Image by [darumakarei](https://twitter.com/darumakarei/status/1498288587028135937) | 
-  Inspired by [instance01](https://github.com/instance01/instance01)<br>
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yioz5owf1lq36k6pn82ie126p&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yioz5owf1lq36k6pn82ie126p&redirect=false)
-  
-  ## Tech Stack
-  * ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-    ![VSCOCE](https://img.shields.io/badge/Visual_studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python-14354c?style=for-the-badge&logo=python&logoColor=ffffff)
-  * ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-    ![POSTSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-    ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-    ![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
-  <!-- * ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-  ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)<br> -->
-  <!-- ![Discord](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) -->
-  <!-- <br>
-  ![Discord](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
-  ![Discord](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-  ![Discord](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-   -->
+ ```bash
+# B i o d a t a 🎨
 
-  ## 🤝🏻  Connect with Me
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/932817217614118943)
-  [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](hhttps://www.youtube.com/channel/UCehQMGUaFgzKZ8RoNT-Oc0w)
-  [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/)
+* ##  H o b b y
+* Music
+* Physical Exercise
+* And Other
 
-  ## Support
+* ## A b o u t M e
+* Age: 17th
+* Gender: Male
+* Name: ChlleXanDev
+```
 
-  if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈<br><br>
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/chllexandev)
-<!-- 
-  <p  align="center">
-<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg">  -->
-  <a href="https://github.com/ChlleXanDev">
-    <img src="https://komarev.com/ghpvc/?username=ChlleXanDev">
-</a>
-<a href="https://github.com/ChlleXanDev?tab=followers"><img src="https://img.shields.io/github/followers/ChlleXanDev?label=Followers&style=social" alt="GitHub Badge"></a>
+---
 
+## ```Whatsapp``` <a href="https://wa.me/6281289682492"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+[![Developer](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281289682492) 
 
+---------
 
-
-  </p>
+## ```Status 🐾```
+<img src="https://github-readme-stats.vercel.app/api?username=ChlleXanDev&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChlleXanDev&show_icons=true&theme=radical" />
 </p>
 
 
-
-<!-- <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=yioz5owf1lq36k6pn82ie126p&redirect=false">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=yioz5owf1lq36k6pn82ie126p&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Angel Santiago Jaime Zavala's DEV Profile">
-  </a><br>
-    <a href="https://github.com/ChlleXanDev">
-        <img src="https://komarev.com/ghpvc/?username=ChlleXanDev">
-    </a>
-    <a href="https://github.com/ChlleXanDev?tab=followers"><img src="https://img.shields.io/github/followers/ChlleXanDev?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
-<!--  -->
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yioz5owf1lq36k6pn82ie126p&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yioz5owf1lq36k6pn82ie126p&redirect=false) --> 
+<!--![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=ChlleXanDev&layout=compact&theme=nightowl)-->
+```go
