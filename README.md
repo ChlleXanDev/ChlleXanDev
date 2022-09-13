@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/ChlleXanDev"><img title="Author" src="https://img.shields.io/badge/Xiao-Yan-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/ChlleXanDev"><img title="Author" src="https://img.shields.io/badge/Chlle-XanDev-blue.svg?style=for-the-badge&logo=github"></a>
 
 ## ```Spotify Music``` 🎵
 
