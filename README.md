@@ -54,7 +54,7 @@ I'm currently learning:
 ---
 
 ## ```Whatsapp``` <a href="https://wa.me/6281289682492"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-[![Developer](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281289682492) 
+[![Developer](https://img.shields.io/badge/Developer-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281289682492) 
 
 ---------
 
