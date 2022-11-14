@@ -39,7 +39,6 @@
 </p>
 <br />
 
----
 ------
 I'm currently learning:
 #### 💻Languages :
