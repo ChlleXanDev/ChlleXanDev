@@ -16,6 +16,31 @@
 </p>
 
 ------
+### Discord Status
+<a href="https://discord.com/users/932817217614118943">
+<img height="80px" src="https://discord.c99.nl/widget/theme-2/932817217614118943.png" />
+</a>
+
+### Contact me: 
+
+[<img align="left" alt="YouTube" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-128.png" />](https://www.youtube.com/channel/UCehQMGUaFgzKZ8RoNT-Oc0w)
+<a href="https://dsc.gg/notnexus">
+  <img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+
+</br>
+
+### Languages and Tools:
+<p align="left">
+<img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
+<img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=#1572B6" />
+<img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript" />
+</p>
+<br />
+
+---
+------
 I'm currently learning:
 #### 💻Languages :
 <img align="right" alt="js" width="45px" src="https://i.ibb.co/PTMpZF1/1633694131337.png" />
